@@ -11,6 +11,8 @@ class ArCoreFaceView extends StatefulWidget {
   final ArCoreFaceViewCreatedCallback onArCoreViewCreated;
   final bool enableAugmentedFaces;
   final bool debug;
+  
+  //coreKit
 
   const ArCoreFaceView(
       {Key key,
